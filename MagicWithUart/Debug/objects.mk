@@ -1,0 +1,8 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+USER_OBJS :=
+
+LIBS := -llibc.a -l"C:/ti/pdk_C6657_1_1_2_6/packages/ti/platform/evmc6657l/platform_lib/lib/debug/ti.platform.evm6657l.ae66" -l"C:/ti/pdk_c665x_2_0_16/packages/ti/drv/uart/lib/c6657/c66/release/ti.drv.uart.ae66"
+
